@@ -1,0 +1,86 @@
+[
+    {
+        "title": "DWM",
+        "backgroundImg": "/assets/projects/DWM.png",
+        "projectUrl": "https://dworldmachine.com.ar/",
+        "repoUrl": "https://dworldmachine.com.ar/",
+        "tech": "Next JS, Node, Express, MongoDB"
+    },
+    {
+        "title": "Food App",
+        "backgroundImg": "/assets/projects/foodapp.png",
+        "projectUrl": "https://facudelucia.github.io/foodapp-angular/",
+        "repoUrl": "https://github.com/facudelucia/foodapp-angular",
+        "tech": "Angular"
+    },
+    {
+        "title": "Duolingo Clone",
+        "backgroundImg": "/assets/projects/duolingo.png",
+        "projectUrl": "https://facudelucia.github.io/angular-duolingo/",
+        "repoUrl": "https://github.com/facudelucia/angular-duolingo",
+        "tech": "Angular"
+    },
+    {
+        "title": "IP tracker",
+        "backgroundImg": "/assets/projects/iptracker.png",
+        "projectUrl": "https://facudelucia.github.io/iptracker-angular/",
+        "repoUrl": "https://github.com/facudelucia/iptracker-angular",
+        "tech": "Angular, Leaflet"
+    },
+    {
+        "title": "Soundboard",
+        "backgroundImg": "/assets/projects/soundboard.png",
+        "projectUrl": "https://facudelucia.github.io/soundboard-angular/",
+        "repoUrl": "https://github.com/facudelucia/soundboard-angular",
+        "tech": "Angular"
+    },
+    {
+        "title": "Tinder Clone",
+        "backgroundImg": "/assets/projects/tinder.png",
+        "projectUrl": "https://facudelucia.github.io/tinder/",
+        "repoUrl": "https://github.com/facudelucia/tinder",
+        "tech": "React"
+    },
+    {
+        "title": "Whatsapp Clone",
+        "backgroundImg": "/assets/projects/whatsapp.png",
+        "projectUrl": "https://facudelucia.github.io/whatsapp/",
+        "repoUrl": "https://github.com/facudelucia/whatsapp",
+        "tech": "React"
+    },
+    {
+        "title": "Tiktok Clone",
+        "backgroundImg": "/assets/projects/tiktok.png",
+        "projectUrl": "https://facudelucia.github.io/tiktok/",
+        "repoUrl": "https://github.com/facudelucia/tiktok",
+        "tech": "React"
+    },
+    {
+        "title": "Facebook Clone",
+        "backgroundImg": "/assets/projects/facebook.png",
+        "projectUrl": "https://facudelucia.github.io/facebook/",
+        "repoUrl": "https://github.com/facudelucia/facebook",
+        "tech": "React"
+    },
+    {
+        "title": "Amazon Clone",
+        "backgroundImg": "/assets/projects/amazon.png",
+        "projectUrl": "https://facudelucia.github.io/amazon-full/",
+        "repoUrl": "https://github.com/facudelucia/amazon-full",
+        "tech": "React"
+    },
+    {
+        "title": "To Dos App",
+        "backgroundImg": "/assets/projects/todosapp.png",
+        "projectUrl": "https://facudelucia.github.io/todo-vue/",
+        "repoUrl": "https://github.com/facudelucia/todo-vue",
+        "tech": "Vue, Bootstrap"
+    },
+    {
+        "title": "Pomodoro",
+        "backgroundImg": "/assets/projects/pomodoro.png",
+        "projectUrl": "https://facudelucia.github.io/pomodoro-react/",
+        "repoUrl": "https://github.com/facudelucia/pomodoro-react",
+        "tech": "React"
+    }
+]
